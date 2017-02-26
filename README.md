@@ -17,11 +17,11 @@ Currently only supports to send messages from IRC to Telegram
 
 There are lots of apps around doing same with better security, more functionality and etc.
 The only reason is to learn rust by doing something and for personal use.
-Fill free to contribute
+Feel free to contribute
 
 # License
 
-Copyright 2017 Emin Mastizada <emin@linux.com>
+Copyright 2017 Emin Mastizada
 
 This software is licensed under the [MPL version 2.0][MPL]. For more
 information, read the file ``LICENSE``.
