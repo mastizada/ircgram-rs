@@ -1,0 +1,19 @@
+{
+  "nickname": "",
+  "nick_password": "",
+  "username": "",
+  "realname": "",
+  "server": "chat.freenode.net",
+  "port": 6697,
+  "password": "",
+  "use_ssl": true,
+  "encoding": "UTF-8",
+  "channels": ["#pyninjas"],
+  "user_info": "Rust bot for Telegram",
+  "ping_time": 180,
+  "ping_timeout": 10,
+  "options": {
+    "telegram_api": "",
+    "chat_id": ""
+  }
+}

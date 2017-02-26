@@ -1,0 +1,8 @@
+[package]
+name = "ircgram-rs"
+version = "0.1.0"
+authors = ["Emin Mastizada <emin@linux.com>"]
+
+[dependencies]
+irc = "0.11.6"
+telegram-bot = "0.5.0"
